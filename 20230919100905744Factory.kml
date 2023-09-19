@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="factory" id="factory">
+	<SimpleField name="工業區" type="string"></SimpleField>
+	<SimpleField name="TWD97_X" type="float"></SimpleField>
+	<SimpleField name="TWD97_Y" type="float"></SimpleField>
+	<SimpleField name="Area" type="float"></SimpleField>
+</Schema>
+<Folder><name>factory</name>
+  <Placemark>
+	<name>漢鐘精機股份有限公司觀音廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">262406.74267499999</SimpleData>
+		<SimpleData name="TWD97_Y">2772791.19742000010</SimpleData>
+		<SimpleData name="Area">21925.11893010000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.12363267247,25.0627990687421 121.122661920918,25.0623818441741 121.121997716301,25.0636543957258 121.123142279638,25.0641311990044 121.124026316182,25.063061501938 121.12363267247,25.0627990687421</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣日?金屬股份有限公司(觀音工廠)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">262516.38013599999</SimpleData>
+		<SimpleData name="TWD97_Y">2772721.73529999983</SimpleData>
+		<SimpleData name="Area">3577.23609710000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.124481417178,25.0625027530176 121.124045164421,25.0622463284574 121.123668738223,25.0628050105616 121.124019741813,25.0630435918753 121.124481417178,25.0625027530176</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>思特材料股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">262732.72088199999</SimpleData>
+		<SimpleData name="TWD97_Y">2773125.35680999979</SimpleData>
+		<SimpleData name="Area">3714.94831122000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.126655526082,25.0663647013443 121.126117406268,25.0658903974485 121.125770251039,25.0662221295088 121.126291952108,25.0666695752918 121.126655526082,25.0663647013443</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>默克先進科技材料股份有限公司桃園廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">262801.27358799998</SimpleData>
+		<SimpleData name="TWD97_Y">2772489.83183000004</SimpleData>
+		<SimpleData name="Area">14711.15593490000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.127785539791,25.0603584403203 121.127245995696,25.0597533577007 121.125964604104,25.060725473452 121.126559225993,25.0613376799469 121.127785539791,25.0603584403203</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>同昱能源科技股份有限公司觀音廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">263026.10407900001</SimpleData>
+		<SimpleData name="TWD97_Y">2771250.47007999988</SimpleData>
+		<SimpleData name="Area">3220.45754981000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.129514717514,25.0495483590305 121.128983090481,25.0489540241687 121.128684372886,25.0491621040245 121.129215999385,25.0497564399408 121.129514717514,25.0495483590305</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>朝萬工業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">263357.53837199998</SimpleData>
+		<SimpleData name="TWD97_Y">2770825.69952999987</SimpleData>
+		<SimpleData name="Area">11297.35437360000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.132786533989,25.0452015376488 121.13190916711,25.0449622502704 121.131787248739,25.0449731078229 121.13176359963,25.0449265482547 121.131535671628,25.0451130723995 121.132528026999,25.0462122078399 121.133094018185,25.0458426406985 121.133074278459,25.0457745791347 121.133172555452,25.0457243274178 121.132841881011,25.0454630558203 121.132786533989,25.0452015376488</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台光電子材料股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">263095.31523800001</SimpleData>
+		<SimpleData name="TWD97_Y">2770992.82539999997</SimpleData>
+		<SimpleData name="Area">24689.75452050000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.130884406039,25.0474912455566 121.129335465285,25.0457368742254 121.128864624205,25.046836106346 121.129954191784,25.0481250796228 121.130884406039,25.0474912455566</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>水美工程企業股份有限公司觀音廠、中陸工業股份有限公司觀音廠、</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">260559.87537900000</SimpleData>
+		<SimpleData name="TWD97_Y">2772223.72418999998</SimpleData>
+		<SimpleData name="Area">27546.95809580000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.105808960374,25.0577067192226 121.104796071978,25.0569621494673 121.104460744271,25.057363694597 121.104560448701,25.0574257317625 121.103523039854,25.0586972698892 121.104425698526,25.059332043522 121.105808960374,25.0577067192226</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>順晉</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261314.55467099999</SimpleData>
+		<SimpleData name="TWD97_Y">2772027.48986000009</SimpleData>
+		<SimpleData name="Area">12140.76128840000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.112571844075,25.0558946628658 121.112377352159,25.0554170614487 121.112225271993,25.055436286387 121.111423694286,25.0563971647764 121.11225814613,25.0569793897456 121.112279643376,25.0575478943308 121.112631274348,25.0577960573343 121.112777972599,25.0576239565238 121.112426333108,25.0573662388959 121.112315743248,25.0568742415025 121.112388747889,25.0564107700946 121.112571844075,25.0558946628658</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>中化生醫科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261889.21109600001</SimpleData>
+		<SimpleData name="TWD97_Y">2772064.22995000007</SimpleData>
+		<SimpleData name="Area">5086.87698344000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.118281161457,25.0562990989792 121.117891589133,25.0561453347952 121.117400820077,25.057120330657 121.117778604307,25.0572848547921 121.118281161457,25.0562990989792</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>阿托科技股份有限公司觀音廠、台光電子材料股份有限公司二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261820.94474700000</SimpleData>
+		<SimpleData name="TWD97_Y">2772002.82646000013</SimpleData>
+		<SimpleData name="Area">3243.44286675000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.117521962473,25.0560068417582 121.117039255075,25.055808479495 121.116798463417,25.056301705635 121.117287475207,25.0565096186567 121.117521962473,25.0560068417582</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>佳值化學股份有限公司觀音廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261646.10438999999</SimpleData>
+		<SimpleData name="TWD97_Y">2772199.83832000010</SimpleData>
+		<SimpleData name="Area">6751.84062051000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.115949476481,25.0576621388688 121.115315924142,25.057408231044 121.114923317266,25.0582183191372 121.115525403736,25.05847225308 121.115949476481,25.0576621388688</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>信建精密有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261521.96491099999</SimpleData>
+		<SimpleData name="TWD97_Y">2771084.27893000003</SimpleData>
+		<SimpleData name="Area">6839.34202078000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.114843034927,25.0474268922937 121.11450192408,25.0471852950545 121.113539303559,25.0483117304203 121.113873857333,25.0485503489241 121.114843034927,25.0474268922937</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>長祥環保有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">260881.05496099999</SimpleData>
+		<SimpleData name="TWD97_Y">2770510.82080999995</SimpleData>
+		<SimpleData name="Area">1455.77128068000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.107891935692,25.0423324806495 121.107818466936,25.0422752040273 121.107843719247,25.0423669136255 121.107836431694,25.0424290263632 121.107590243957,25.0427607630535 121.107921858415,25.0429669103682 121.108058052259,25.0427890885398 121.107944705449,25.0427069980032 121.107891935692,25.0423324806495</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>合江工業廠股份有限公司觀音廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261952.69618299999</SimpleData>
+		<SimpleData name="TWD97_Y">2772230.64657999994</SimpleData>
+		<SimpleData name="Area">10894.28527160000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.119171175494,25.0580087946824 121.118183443618,25.0576046921236 121.117763319436,25.058414809547 121.118762860903,25.0588224885109 121.119171175494,25.0580087946824</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>東欣實業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">263013.92323299998</SimpleData>
+		<SimpleData name="TWD97_Y">2771299.27679000003</SimpleData>
+		<SimpleData name="Area">2689.38062361000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.129335074607,25.0499274804799 121.128951064033,25.0494440935651 121.128620258182,25.0496862407429 121.129017348264,25.0501397578352 121.129335074607,25.0499274804799</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>搏澤科技有限公司、聚紡股份有限公司觀音廠、國紡企業股份有限公</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261805.93956599999</SimpleData>
+		<SimpleData name="TWD97_Y">2771146.84652000014</SimpleData>
+		<SimpleData name="Area">22697.09050520000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.118028342646,25.048227592622 121.117020662513,25.0474401037027 121.115959813329,25.0486556127739 121.117038256461,25.0494000556015 121.118028342646,25.048227592622</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>東達工業股份有限公司、雄凱工業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">263828.89095400000</SimpleData>
+		<SimpleData name="TWD97_Y">2771268.31255999999</SimpleData>
+		<SimpleData name="Area">1993.41656532000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.137201793739,25.049399564702 121.137065230021,25.0492133687291 121.136748196329,25.0494453690908 121.137050141936,25.0497938474537 121.137369822152,25.0495833427061 121.137201793739,25.049399564702</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>金宏星企業有限公司、佢岳環保科技股份有限公司觀音廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">262928.65108699998</SimpleData>
+		<SimpleData name="TWD97_Y">2772376.88738000020</SimpleData>
+		<SimpleData name="Area">1580.82753455000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.128447443025,25.0594650278413 121.128266809143,25.0592645296859 121.127841263928,25.0595935874415 121.128015593765,25.0597845365753 121.128447443025,25.0594650278413</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>錦美紙業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">263077.27402900002</SimpleData>
+		<SimpleData name="TWD97_Y">2772315.33424000023</SimpleData>
+		<SimpleData name="Area">12939.16398310000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.130427920645,25.058718730985 121.129986791246,25.0581888171087 121.128760535261,25.0591859905879 121.129280336846,25.0597158395746 121.130113628858,25.0590988165685 121.130192124376,25.0589303415049 121.130427920645,25.058718730985</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣科慕股份有限公司觀音廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261847.92361299999</SimpleData>
+		<SimpleData name="TWD97_Y">2771503.25095999986</SimpleData>
+		<SimpleData name="Area">3345.38079459000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.117826924276,25.0516875073156 121.11724960648,25.0512532126213 121.117024521053,25.0517072515937 121.117685607878,25.0519886011463 121.117826924276,25.0516875073156</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>泓泰環保科技股份有限公司大同廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">263806.32297799998</SimpleData>
+		<SimpleData name="TWD97_Y">2771237.73852000013</SimpleData>
+		<SimpleData name="Area">1056.33471788000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.137068588412,25.049204271869 121.136924166372,25.0490252492434 121.136594021702,25.0492572613654 121.136746318214,25.0494434432908 121.137068588412,25.049204271869</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>明鴻國際實業股份有限公司桃園分公司(停業)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">262977.01834800001</SimpleData>
+		<SimpleData name="TWD97_Y">2772883.70870999992</SimpleData>
+		<SimpleData name="Area">5705.21248061000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.129166643617,25.064093548596 121.128625252196,25.0636252283391 121.128088142725,25.0641183702483 121.128636075114,25.0645717571422 121.129166643617,25.064093548596</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>鎰發金屬有限公司觀音廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261215.12069800001</SimpleData>
+		<SimpleData name="TWD97_Y">2771383.89703000011</SimpleData>
+		<SimpleData name="Area">194275.94718799999</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.112816728557,25.0488358607146 121.110783307455,25.0475116370173 121.108190082325,25.0506547489907 121.112650835162,25.0538165197139 121.112794965363,25.0537089168467 121.112873285406,25.0533266582814 121.113371000259,25.0527529805925 121.113304926346,25.0521916760534 121.112989779173,25.0516783360058 121.112464993789,25.0513204225367 121.112962724376,25.0507706335166 121.112816728557,25.0488358607146</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>越?電子材料股份有限公司、銘鈺精密工業股份有限公司二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261393.93193799999</SimpleData>
+		<SimpleData name="TWD97_Y">2772305.99772999994</SimpleData>
+		<SimpleData name="Area">20131.36866790000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.113909518902,25.0589703904604 121.112560690649,25.0579968119307 121.111853342296,25.0587760764653 121.113474988994,25.0598354478134 121.113909518902,25.0589703904604</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣氰達工業有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">262846.95934000000</SimpleData>
+		<SimpleData name="TWD97_Y">2773272.62050999980</SimpleData>
+		<SimpleData name="Area">10887.95860410000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.128092792972,25.067684620868 121.127263276308,25.0669448251403 121.126608260742,25.06756645727 121.127395775845,25.0682680728227 121.128092792972,25.067684620868</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣太陽油墨股份有限公司觀音廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">263632.36714200000</SimpleData>
+		<SimpleData name="TWD97_Y">2771104.87716000015</SimpleData>
+		<SimpleData name="Area">1227.70602839000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.135368624642,25.0480068596397 121.135205837918,25.0478159083114 121.134844242345,25.0480622776715 121.135009653671,25.0482556157497 121.135368624642,25.0480068596397</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>臺灣永光化學工業股份有限公司第三廠、祥發金屬工業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">觀音工業區</SimpleData>
+		<SimpleData name="TWD97_X">261686.36498200000</SimpleData>
+		<SimpleData name="TWD97_Y">2771236.70874000015</SimpleData>
+		<SimpleData name="Area">6545.34449181000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.116398707008,25.0489716059684 121.115953958546,25.0486745549685 121.115246730747,25.0495028056196 121.115687560584,25.0498141942233 121.116398707008,25.0489716059684</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>名佳利金屬工業股份有限公司中壢二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274539.26126599999</SimpleData>
+		<SimpleData name="TWD97_Y">2763114.30066999979</SimpleData>
+		<SimpleData name="Area">18370.75246760000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.242118907279,24.9753209720698 121.242120618698,24.9761952548355 121.243999639838,24.9761921869105 121.243997915138,24.9753179042666 121.242118907279,24.9753209720698</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>同達一股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274642.33291699999</SimpleData>
+		<SimpleData name="TWD97_Y">2764983.61590000009</SimpleData>
+		<SimpleData name="Area">14492.65628900000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.243696796095,24.9920244919497 121.243486822414,24.9920090699185 121.243216400307,24.9927754657872 121.24411794885,24.9930636256677 121.244380181585,24.9931288859014 121.244747202618,24.9931670998788 121.245152473223,24.9926677806265 121.243696796095,24.9920244919497</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>惠豐特殊電線股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274437.16456100001</SimpleData>
+		<SimpleData name="TWD97_Y">2762186.33967000013</SimpleData>
+		<SimpleData name="Area">7398.89332624000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.24258542024,24.967680354809 121.242581619595,24.9670783932384 121.241418155245,24.9670946166324 121.241539858353,24.9676892207778 121.24258542024,24.967680354809</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>大格化學工業股份有限公司中壢廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274833.79891499999</SimpleData>
+		<SimpleData name="TWD97_Y">2764656.36786000011</SimpleData>
+		<SimpleData name="Area">3747.27075693000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.246316848746,24.9900065928419 121.24632857307,24.9893138349506 121.245480699176,24.9896466755889 121.245454673426,24.9897392827171 121.246316848746,24.9900065928419</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>睿明科技股份有限公司中壢廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274261.48533599998</SimpleData>
+		<SimpleData name="TWD97_Y">2763061.25143000018</SimpleData>
+		<SimpleData name="Area">13891.76060420000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.239737599213,24.9747365924668 121.239739717402,24.9758294461854 121.240876430344,24.9758276112795 121.240874302112,24.9747347576519 121.239737599213,24.9747365924668</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>英群企業股份有限公司中壢廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274744.06379699998</SimpleData>
+		<SimpleData name="TWD97_Y">2762712.56149999984</SimpleData>
+		<SimpleData name="Area">9560.40848596000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.244492235975,24.9717635011088 121.244493673537,24.972490875931 121.245669009131,24.9724889411827 121.245667564658,24.9717615664244 121.244492235975,24.9717635011088</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>正新鋁業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274659.48091300001</SimpleData>
+		<SimpleData name="TWD97_Y">2764356.60613000020</SimpleData>
+		<SimpleData name="Area">20573.22033000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.244459771222,24.9874319671772 121.245755682233,24.9867060402349 121.245205003239,24.986560040173 121.244284475962,24.9862605709283 121.244065177621,24.9866944897035 121.244006327746,24.9867554994469 121.243864827704,24.9867700639089 121.243770454285,24.986759469127 121.24335349924,24.9866419081595 121.243095496427,24.9873876212602 121.243559672505,24.9875266044394 121.243779927961,24.987576407643 121.243921464287,24.9875797588557 121.244059040955,24.9875687839017 121.244220149173,24.987529105154 121.244459771222,24.9874319671772</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>華星光通科技股份有限公司合江廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274854.53622600000</SimpleData>
+		<SimpleData name="TWD97_Y">2764074.60185000021</SimpleData>
+		<SimpleData name="Area">5440.01529024000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.246690391032,24.9846388423176 121.246223822595,24.983952847835 121.2457000591,24.9841567576 121.246192988555,24.9849203446504 121.246690391032,24.9846388423176</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>金銳盛科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274524.42300000001</SimpleData>
+		<SimpleData name="TWD97_Y">2764197.99129999988</SimpleData>
+		<SimpleData name="Area">2116.09966229000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.243126044429,24.9854793258847 121.24264341562,24.9852818468494 121.242554315625,24.9852867695982 121.242557400454,24.9855232513345 121.243378320185,24.985820505518 121.243435767774,24.9857129175877 121.243092099963,24.9855438777205 121.243126044429,24.9854793258847</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>瑞昇金屬工業股份有限公司桃園廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274611.65111899999</SimpleData>
+		<SimpleData name="TWD97_Y">2764880.15414999984</SimpleData>
+		<SimpleData name="Area">3138.86716478000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.244104602434,24.991408495865 121.243734837457,24.9913051912322 121.24349637914,24.9919971256485 121.243692989908,24.9920147194296 121.243889735071,24.992100392188 121.244104602434,24.991408495865</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>長鴻電子股份有限公司中壢廠.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274472.41321899998</SimpleData>
+		<SimpleData name="TWD97_Y">2764446.46898999996</SimpleData>
+		<SimpleData name="Area">774.80238683300</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.242589178358,24.9876948499439 121.242338740499,24.9876235953395 121.242251429073,24.9878733623365 121.242503182537,24.9879470036933 121.242589178358,24.9876948499439</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>英屬維京群島商天材創新材料科技股份有限公司台灣分公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274364.00780600001</SimpleData>
+		<SimpleData name="TWD97_Y">2764819.45465999981</SimpleData>
+		<SimpleData name="Area">9333.12098493000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.241878828363,24.9907228312319 121.241139306753,24.9905162099016 121.240865710346,24.9913407730099 121.241433104571,24.9919848168814 121.241878828363,24.9907228312319</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>國瑞汽車股份有限公司中壢工廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274953.99616200000</SimpleData>
+		<SimpleData name="TWD97_Y">2765283.10929000005</SimpleData>
+		<SimpleData name="Area">148603.00777900001</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.248754602882,24.997812870684 121.248734982819,24.9932742761567 121.245652686748,24.993298506863 121.24510157579,24.9955926176291 121.247412585133,24.99781510853 121.248754602882,24.997812870684</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>弘總企業有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">273940.59565300000</SimpleData>
+		<SimpleData name="TWD97_Y">2762720.88956000004</SimpleData>
+		<SimpleData name="Area">3638.41138460000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.237295944421,24.9726311215047 121.237353347256,24.9718176572223 121.236924896235,24.9718255059169 121.23691067553,24.9726102362232 121.237295944421,24.9726311215047</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣麥德美</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274695.54279400001</SimpleData>
+		<SimpleData name="TWD97_Y">2763699.93667999981</SimpleData>
+		<SimpleData name="Area">8472.48418299000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.24529750655,24.9810938271211 121.244899345113,24.9805319306245 121.243980178486,24.98089891983 121.244323569563,24.9815970677945 121.24529750655,24.9810938271211</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣鑽石工業股份有限公司中壢廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274415.64084000001</SimpleData>
+		<SimpleData name="TWD97_Y">2763936.10822999990</SimpleData>
+		<SimpleData name="Area">2024.55549532000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.241483820153,24.9830548006565 121.241484304179,24.9833026333089 121.24221485829,24.9833014462088 121.2422143728,24.9830536135698 121.241483820153,24.9830548006565</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>錦錩實業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274762.60116000002</SimpleData>
+		<SimpleData name="TWD97_Y">2764933.24465999985</SimpleData>
+		<SimpleData name="Area">3591.09117829000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.245629739552,24.9917933804085 121.245232368746,24.9917584036035 121.244989067988,24.9925379359027 121.245352900082,24.9926209427595 121.245629739552,24.9917933804085</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣東亞電磁鋼股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274416.68073800002</SimpleData>
+		<SimpleData name="TWD97_Y">2764858.42481999984</SimpleData>
+		<SimpleData name="Area">8002.11278075000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.242338530073,24.9908622885129 121.241885802897,24.9907288203971 121.241435826868,24.9920032759648 121.241827471354,24.9923881734913 121.242338530073,24.9908622885129</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>烈宏企業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274127.66284499998</SimpleData>
+		<SimpleData name="TWD97_Y">2762240.94744999986</SimpleData>
+		<SimpleData name="Area">1038.68935335000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.239068919927,24.9680717404728 121.239084572274,24.9674926796196 121.238748167063,24.9680703440977 121.239068919927,24.9680717404728</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>頂揚實業股份有限公司中壢廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274736.86484800000</SimpleData>
+		<SimpleData name="TWD97_Y">2764467.29975999985</SimpleData>
+		<SimpleData name="Area">14452.31385060000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.245477286822,24.9887779875059 121.245473843083,24.9870437577446 121.24451038162,24.9875660922692 121.244512252655,24.9885120358275 121.245477286822,24.9887779875059</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>立通精工股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274510.80648099998</SimpleData>
+		<SimpleData name="TWD97_Y">2764536.31970999995</SimpleData>
+		<SimpleData name="Area">4694.02855542000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.243191085824,24.9883166006547 121.242663301678,24.988153235359 121.242415748445,24.9888851947972 121.242943500195,24.9890306453364 121.243191085824,24.9883166006547</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>張國周製藥股份有限公司中壢製藥廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274542.75130800001</SimpleData>
+		<SimpleData name="TWD97_Y">2765055.43674999988</SimpleData>
+		<SimpleData name="Area">5034.94230590000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.243535916061,24.9930496872386 121.243050692287,24.992880879184 121.242629321619,24.9931944934874 121.243275364923,24.9938384017975 121.243535916061,24.9930496872386</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣福祿貿易股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274085.77506199997</SimpleData>
+		<SimpleData name="TWD97_Y">2762456.51195999980</SimpleData>
+		<SimpleData name="Area">2601.76125573000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.238184344116,24.9696691274853 121.238184946993,24.969982282217 121.238927870173,24.9699810919201 121.238927265415,24.9696679372053 121.238184344116,24.9696691274853</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台達電子工業股份有限公司中壢廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274144.13049800001</SimpleData>
+		<SimpleData name="TWD97_Y">2762154.79047999997</SimpleData>
+		<SimpleData name="Area">17968.85594250000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.239621577319,24.9666393324483 121.239023445844,24.9662963120678 121.238452203488,24.9663067829454 121.23845897274,24.9670998409719 121.238406664408,24.9671524774822 121.238453971158,24.9672240645793 121.239099135908,24.967495348834 121.239079307446,24.9680830159335 121.239697703782,24.9680605229007 121.239679458992,24.9667586773707 121.239621577319,24.9666393324483</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>欣興電子股份有限公司合江二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274805.36822800001</SimpleData>
+		<SimpleData name="TWD97_Y">2764102.48543999996</SimpleData>
+		<SimpleData name="Area">5634.56291927000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.24619599477,24.9849290460591 121.245697472474,24.9841571494605 121.245305743009,24.9842970790929 121.245273971109,24.984357689486 121.245675656883,24.9852157397669 121.24619599477,24.9849290460591</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>正昌創新股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274163.46471500001</SimpleData>
+		<SimpleData name="TWD97_Y">2762339.34285000013</SimpleData>
+		<SimpleData name="Area">3250.15910034000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.238923247608,24.9685850009889 121.238923949253,24.9689483489119 121.239723808865,24.9689470633085 121.239723104872,24.9685837154067 121.238923247608,24.9685850009889</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>久尹股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274086.69083899999</SimpleData>
+		<SimpleData name="TWD97_Y">2762297.67821000004</SimpleData>
+		<SimpleData name="Area">3461.52338173000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.238959077625,24.9681936545926 121.238262998038,24.9681902911075 121.238202444906,24.9682142755997 121.238176305977,24.9682486558545 121.23815402602,24.9685861040004 121.238950011925,24.9685878147142 121.238959077625,24.9681936545926</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>中壢工業區第一期標準廠房及專業辦公大樓</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274834.90122599999</SimpleData>
+		<SimpleData name="TWD97_Y">2763626.77218999993</SimpleData>
+		<SimpleData name="Area">7740.29710859000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.246725459747,24.9802481762681 121.246433720375,24.9798294327937 121.245263582235,24.980504994781 121.245574982177,24.980927291224 121.246725459747,24.9802481762681</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>潔閎有限公司中壢廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274356.75829299999</SimpleData>
+		<SimpleData name="TWD97_Y">2763895.82348999986</SimpleData>
+		<SimpleData name="Area">822.86973814200</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.241051264153,24.9827297213362 121.241051599437,24.9829017056684 121.241479479529,24.9829010120799 121.24147914365,24.9827290277532 121.241051264153,24.9827297213362</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>群燁實業有限公司中壢廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274357.01306799997</SimpleData>
+		<SimpleData name="TWD97_Y">2763927.76586999977</SimpleData>
+		<SimpleData name="Area">1985.97927436000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.241487313576,24.9833072674962 121.241483365227,24.9828959301104 121.241050942187,24.9829023640823 121.241050160441,24.983307976134 121.241487313576,24.9833072674962</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>生光化學工業股份有限公司中壢廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">275165.19841000001</SimpleData>
+		<SimpleData name="TWD97_Y">2764529.34004000016</SimpleData>
+		<SimpleData name="Area">7218.51548349000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.249665484446,24.9880260975143 121.249632626463,24.987978377565 121.248817580432,24.9883350696304 121.248831821062,24.9888993888185 121.24968366246,24.9889158776511 121.249665484446,24.9880260975143</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>長鴻電子股份有限公司中壢北園廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274498.68952999997</SimpleData>
+		<SimpleData name="TWD97_Y">2764128.85702000000</SimpleData>
+		<SimpleData name="Area">1849.30925421000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.242818844436,24.984675977968 121.242709813288,24.9846742448091 121.242522177235,24.9846831502028 121.242500235176,24.9847204505406 121.242549557312,24.9852802944157 121.242645982593,24.9852686712124 121.242936408752,24.9847522262862 121.242818844436,24.984675977968</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>新速科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">275191.50607100001</SimpleData>
+		<SimpleData name="TWD97_Y">2765279.01853000000</SimpleData>
+		<SimpleData name="Area">8791.99402041000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.250537327252,24.9949863951949 121.248968603536,24.9949818622095 121.248973950059,24.9956841461353 121.249748480077,24.9956828480176 121.249807215414,24.9955645062341 121.249866102782,24.9955214098309 121.249940564392,24.995403041582 121.250070213438,24.9953562430828 121.250227209543,24.99522340344 121.250537327252,24.9949863951949</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台達預定地、盛新材料科技</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274589.59435899998</SimpleData>
+		<SimpleData name="TWD97_Y">2762508.01018999983</SimpleData>
+		<SimpleData name="Area">26874.18744320000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.244306352614,24.9710683169544 121.244311100962,24.9694917276726 121.242778112589,24.9695049845398 121.242760511585,24.970551290158 121.242819481028,24.9705547771398 121.24282052187,24.9710850801252 121.244306352614,24.9710683169544</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>易鼎股份有限公司二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274665.28055500000</SimpleData>
+		<SimpleData name="TWD97_Y">2763646.36813999992</SimpleData>
+		<SimpleData name="Area">4151.96127410000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.244904904756,24.9805262111547 121.244710354335,24.9802503863558 121.243759479254,24.980525669023 121.243972822331,24.9808983571627 121.244904904756,24.9805262111547</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>益森彩藝工業股份有限公司、日月星科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274618.76886100002</SimpleData>
+		<SimpleData name="TWD97_Y">2763575.73334999988</SimpleData>
+		<SimpleData name="Area">15225.12985620000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.244268029456,24.9793259381215 121.243258986862,24.9792977310664 121.243343540679,24.9806472404789 121.244705558638,24.9802508627357 121.24457090825,24.980080885126 121.244442656651,24.9798332622862 121.244353769808,24.9796124482241 121.244323879399,24.9794064670079 121.244268029456,24.9793259381215</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>慶生電子股份有限公司松江廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">275197.18560099998</SimpleData>
+		<SimpleData name="TWD97_Y">2765443.65248999977</SimpleData>
+		<SimpleData name="Area">10906.56933160000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.250237846907,24.9964148052271 121.24895137011,24.9963975849006 121.248947523156,24.9971267086732 121.250335014353,24.9971461813666 121.250237846907,24.9964148052271</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>法博科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274160.70694300003</SimpleData>
+		<SimpleData name="TWD97_Y">2762540.14168999996</SimpleData>
+		<SimpleData name="Area">3113.10546441000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.239685251213,24.9703990776739 121.238914805186,24.97039792717 121.238912881196,24.9707586330706 121.239685950027,24.9707597793491 121.239685251213,24.9703990776739</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>欣興電子股份有限公司合江廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274629.25921500003</SimpleData>
+		<SimpleData name="TWD97_Y">2764113.27402999997</SimpleData>
+		<SimpleData name="Area">6266.36433474000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.244667753391,24.9848318959584 121.24449425206,24.9844518766557 121.243992195643,24.9845762389507 121.243505922066,24.9846182148099 121.243038232842,24.9846504694497 121.24386038685,24.985121477248 121.244667753391,24.9848318959584</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>琦升企業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274456.91018100001</SimpleData>
+		<SimpleData name="TWD97_Y">2764327.83436000021</SimpleData>
+		<SimpleData name="Area">2924.55782031000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.242432738368,24.9866323260891 121.24242553762,24.986167963869 121.242289285432,24.9861853847887 121.241993255138,24.9870553732094 121.242345710331,24.987159904879 121.242385248319,24.9870069601891 121.242432738368,24.9866323260891</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣積層工業股份有限公司、新毅電子有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274312.34527300001</SimpleData>
+		<SimpleData name="TWD97_Y">2764647.44914999977</SimpleData>
+		<SimpleData name="Area">12046.53725770000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.241297909738,24.9901578562711 121.241608990101,24.9892376812532 121.241554804684,24.9891720784812 121.241036882456,24.9890266070927 121.240880516103,24.9894837095145 121.239913518004,24.989216536814 121.240065405498,24.9898254241728 121.241297909738,24.9901578562711</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>三宜油化股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">中壢工業區</SimpleData>
+		<SimpleData name="TWD97_X">274738.09374200000</SimpleData>
+		<SimpleData name="TWD97_Y">2764270.04398000007</SimpleData>
+		<SimpleData name="Area">8594.83475800000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.244941446966,24.9858376196169 121.244608283897,24.9856805097532 121.244318523684,24.9862662306429 121.245219384929,24.9865609545726 121.245598288654,24.9866534911833 121.245730833617,24.9860895263222 121.244941446966,24.9858376196169</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台達電子工業股份有限公司桃園三廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">282437.45873000001</SimpleData>
+		<SimpleData name="TWD97_Y">2763963.54548999993</SimpleData>
+		<SimpleData name="Area">12080.06285430000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.321973026671,24.9830710477155 121.321215138439,24.9826367392514 121.321166006406,24.9826398312146 121.321103824676,24.9826638528094 121.321074402794,24.982687803747 121.320548826409,24.9834055602818 121.321460992737,24.9839559902716 121.322002961687,24.983244167002 121.322012727466,24.9832202584109 121.322022384408,24.9831545470376 121.321999304654,24.9830978642676 121.321973026671,24.9830710477155</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣埃萬特股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">282531.19949299999</SimpleData>
+		<SimpleData name="TWD97_Y">2764133.56658999994</SimpleData>
+		<SimpleData name="Area">7175.80200555000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.322810183621,24.9846532521056 121.322180164547,24.9842634602973 121.32167090613,24.9849572978621 121.322307502631,24.9853560353395 121.322810183621,24.9846532521056</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>崑益企業股份有限公司桃園廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">282687.39912000002</SimpleData>
+		<SimpleData name="TWD97_Y">2763447.45832000021</SimpleData>
+		<SimpleData name="Area">4950.44678423000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.324348024101,24.9786898450342 121.323434675416,24.9781782518164 121.323199705549,24.9785203529673 121.324092127704,24.9790463255833 121.324348024101,24.9786898450342</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>克絡耐股份有限公司、保生國際生醫股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">282662.79408500000</SimpleData>
+		<SimpleData name="TWD97_Y">2763481.56392000010</SimpleData>
+		<SimpleData name="Area">3854.66416990000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.324084278055,24.9790511201958 121.32319710982,24.9785299135798 121.322975055056,24.9788003239022 121.323885773272,24.9793071480779 121.324084278055,24.9790511201958</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>翊聖企業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">282732.46012300003</SimpleData>
+		<SimpleData name="TWD97_Y">2763775.71786999982</SimpleData>
+		<SimpleData name="Area">5970.04083535000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.324905326021,24.981744704483 121.323812275944,24.9810790529266 121.323536388225,24.981405348931 121.324676439911,24.9820732772942 121.324905326021,24.981744704483</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>大宇紡織股份有限公司桃園一廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">282770.49011800002</SimpleData>
+		<SimpleData name="TWD97_Y">2763724.65377000021</SimpleData>
+		<SimpleData name="Area">10743.83645950000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.324480431843,24.980621347459 121.324215536057,24.980545484792 121.323817264234,24.9810778477201 121.324902688566,24.9817383592457 121.325388429436,24.9810827819414 121.324666761963,24.9807188797288 121.324480431843,24.980621347459</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>合輝實業股份有限公司平鎮廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">270612.10253999999</SimpleData>
+		<SimpleData name="TWD97_Y">2754774.66014999989</SimpleData>
+		<SimpleData name="Area">12886.39830550000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.204409601827,24.9011768386133 121.204599931362,24.8998579676439 121.203614077143,24.8999954771218 121.203454737269,24.9010527325236 121.204409601827,24.9011768386133</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>和碩聯合科技桃園三廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">283245.43998600001</SimpleData>
+		<SimpleData name="TWD97_Y">2763744.86341000022</SimpleData>
+		<SimpleData name="Area">9627.38516512000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.330152876573,24.981345036836 121.328811401074,24.9807418623063 121.328449009549,24.9812084676903 121.329810199935,24.9818325032575 121.330152876573,24.981345036836</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣軟電股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">282641.85185500002</SimpleData>
+		<SimpleData name="TWD97_Y">2763510.83613000019</SimpleData>
+		<SimpleData name="Area">3680.82176171000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.323873533212,24.9793076310384 121.322965452063,24.9788031752474 121.322782716083,24.9790808558443 121.323694945461,24.9795583455354 121.323873533212,24.9793076310384</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣立凱電能科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">龜山工業區</SimpleData>
+		<SimpleData name="TWD97_X">282612.59377400001</SimpleData>
+		<SimpleData name="TWD97_Y">2763557.85230999999</SimpleData>
+		<SimpleData name="Area">8076.23594833000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.32369204971,24.9795588295738 121.32278009333,24.9790800746916 121.322375384893,24.9796572368095 121.323290627753,24.9801389729133 121.32369204971,24.9795588295738</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>綠能科技股份有限公司大園廠(歇業)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">269264.20419800002</SimpleData>
+		<SimpleData name="TWD97_Y">2775063.58687999984</SimpleData>
+		<SimpleData name="Area">18113.97543320000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.191929384499,25.0830043645025 121.191687619304,25.0827132520163 121.189953096006,25.0839241792057 121.190436698134,25.0845541838064 121.190814178072,25.0844055977196 121.191815158527,25.0837641279866 121.191489256678,25.0833441325706 121.191929384499,25.0830043645025</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>大同股份有限公司桃園電線電纜廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">269072.14214299998</SimpleData>
+		<SimpleData name="TWD97_Y">2774779.84202999994</SimpleData>
+		<SimpleData name="Area">147733.69015099999</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.189422474069,25.0842688344007 121.191859226611,25.0825876219916 121.188443040404,25.0784356086267 121.186602425139,25.0797170994168 121.186427658033,25.0803551100728 121.186485582459,25.0805007498746 121.187559806815,25.0814572769522 121.187596505814,25.0814428982037 121.1878985825,25.0817315523866 121.18801935371,25.0818078387754 121.188313450172,25.0820224515549 121.188510451538,25.0822061336512 121.18880472572,25.0825354042458 121.189011648178,25.0823464312141 121.189187443642,25.0823844268849 121.189452665409,25.0825823530925 121.189353724964,25.0830578365236 121.189304101954,25.08319644612 121.189259879049,25.0834353754347 121.18935433132,25.0834519760702 121.189467052387,25.0834088350534 121.1895482942,25.083363345469 121.189624400449,25.0833895242706 121.189635006362,25.0834635613128 121.189574851236,25.0835759084226 121.189711318875,25.0836235086318 121.1897010148,25.083745346995 121.189624930396,25.0837335005663 121.189546568842,25.083946197574 121.189567696068,25.0840393309881 121.189487763483,25.0840836245634 121.189422474069,25.0842688344007</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台染纖維股份有限公司大園廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">267822.60082599998</SimpleData>
+		<SimpleData name="TWD97_Y">2773798.34397999989</SimpleData>
+		<SimpleData name="Area">11729.95324250000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.177354615004,25.0720239618802 121.176437031914,25.0716431737942 121.175980841294,25.0725803488197 121.176902806094,25.072982818562 121.177354615004,25.0720239618802</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>日勝化工股份有限公司大園廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">267787.10900900001</SimpleData>
+		<SimpleData name="TWD97_Y">2773876.04707999993</SimpleData>
+		<SimpleData name="Area">5710.84560752000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.176897344526,25.0729833028298 121.175972253195,25.0725813034893 121.175756572653,25.0730682634945 121.176668488967,25.0734254910548 121.176897344526,25.0729833028298</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>尚志半導體股份有限公司大園廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">269286.57780400000</SimpleData>
+		<SimpleData name="TWD97_Y">2774689.63770999992</SimpleData>
+		<SimpleData name="Area">15446.95706740000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.192131469721,25.0794148625148 121.191986997494,25.0792776974649 121.190323275212,25.0804443461896 121.191026271257,25.0813272730358 121.191366934402,25.0811237921504 121.191366442356,25.080807286095 121.191359755156,25.080723689192 121.191634369528,25.0802157297565 121.191608112767,25.0801978481832 121.192131469721,25.0794148625148</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>新鋼工業股份有限公司大園廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">269158.19002500002</SimpleData>
+		<SimpleData name="TWD97_Y">2774207.76248000003</SimpleData>
+		<SimpleData name="Area">13352.15631410000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.190767475119,25.0765306370569 121.189592849138,25.0750845707066 121.18905838493,25.0754650607205 121.19025659157,25.0768967686429 121.190767475119,25.0765306370569</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>長珍食品有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">268821.53972900001</SimpleData>
+		<SimpleData name="TWD97_Y">2774549.35314999986</SimpleData>
+		<SimpleData name="Area">1271.97527279000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.186857035608,25.0792420436223 121.186462932101,25.0787982353435 121.186309662833,25.0789095038056 121.186691963216,25.0793533273327 121.186857035608,25.0792420436223</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>皓城工業股份有限公司大園廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">268669.81551599997</SimpleData>
+		<SimpleData name="TWD97_Y">2774370.15834000008</SimpleData>
+		<SimpleData name="Area">2686.27036350000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.185434216128,25.0775607281515 121.185062161373,25.0771211881639 121.184721028639,25.0773609639915 121.185080493302,25.0778005205219 121.185434216128,25.0775607281515</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>華通電腦股份有限公司大園二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">268615.59609299997</SimpleData>
+		<SimpleData name="TWD97_Y">2774278.99740000023</SimpleData>
+		<SimpleData name="Area">4350.64713334000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.18504727177,25.0769869600084 121.184327313066,25.0761159687323 121.184023328445,25.0762907233316 121.184753784502,25.0771664804935 121.18504727177,25.0769869600084</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>國聯矽業化學股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">268573.72891800001</SimpleData>
+		<SimpleData name="TWD97_Y">2774143.46472000005</SimpleData>
+		<SimpleData name="Area">34025.60567180001</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.185827581217,25.075261320803 121.185470241895,25.0748365733863 121.184316313123,25.07490011773 121.184059252305,25.0748813268571 121.18388609906,25.0748480992051 121.183587024089,25.0747959172662 121.18336147959,25.074805750961 121.183125443958,25.0748155972904 121.182532823959,25.0749023215478 121.182532894782,25.0749500961292 121.182396566859,25.0749884834194 121.182538416556,25.075136410447 121.182706111619,25.0750263224554 121.182890011425,25.0752315269667 121.182916565767,25.0754512576311 121.183731127756,25.0764535190756 121.185827581217,25.075261320803</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>欣偉科技股份有限公司三廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">268054.05016400001</SimpleData>
+		<SimpleData name="TWD97_Y">2773269.35258999979</SimpleData>
+		<SimpleData name="Area">9999.38988213000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.179554763594,25.0673628097103 121.178568084237,25.0669674696053 121.178241225861,25.0676367082244 121.179356519446,25.0681011684432 121.179620541549,25.0675084429763 121.179625713631,25.0674582732651 121.179623031794,25.0674176680204 121.179602016029,25.0673938060829 121.179554763594,25.0673628097103</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>旭鴻染整有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大園工業區</SimpleData>
+		<SimpleData name="TWD97_X">267702.80378999998</SimpleData>
+		<SimpleData name="TWD97_Y">2774058.03454999998</SimpleData>
+		<SimpleData name="Area">8978.31139042000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.176107491376,25.0745092541264 121.175018404776,25.0740626546984 121.17494319974,25.0742030814155 121.174923681712,25.074310597442 121.174959859338,25.0743911745311 121.17503870793,25.0745075323303 121.175104523496,25.074680637874 121.175130976303,25.0748388602197 121.175124695426,25.0750329522064 121.175767575406,25.0752412065062 121.176107491376,25.0745092541264</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>震欣科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">209886.70207299999</SimpleData>
+		<SimpleData name="TWD97_Y">2672540.90401999978</SimpleData>
+		<SimpleData name="Area">2002.24428246000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.605576017082,24.1577485482136 120.605464466018,24.1574462910167 120.604937079043,24.1575767988792 120.605038184911,24.1578885853709 120.605576017082,24.1577485482136</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>優乃克股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">209776.10678599999</SimpleData>
+		<SimpleData name="TWD97_Y">2673083.94248000020</SimpleData>
+		<SimpleData name="Area">2286.66600832000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.604508741818,24.1626158168852 120.604382062376,24.1623216424296 120.603798259699,24.1625016907487 120.603922260484,24.1628197486418 120.604508741818,24.1626158168852</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>環隆科技股份有限公司二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">209270.73150699999</SimpleData>
+		<SimpleData name="TWD97_Y">2673174.68540999992</SimpleData>
+		<SimpleData name="Area">9002.82190120000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.599341513419,24.1628699008336 120.599220527525,24.1628409151485 120.598587408097,24.1629682560739 120.598893336159,24.1638075963848 120.599799276464,24.1638673114684 120.599388247146,24.1629130253856 120.599341513419,24.1628699008336</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>力興鍛壓實業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">208653.75013800000</SimpleData>
+		<SimpleData name="TWD97_Y">2673409.50286999997</SimpleData>
+		<SimpleData name="Area">4583.11497892000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.593530803428,24.165653588715 120.593356756871,24.1651126161432 120.592659620764,24.1653048615003 120.59283043827,24.1658368675175 120.593530803428,24.165653588715</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>上銀科技股份有限公司工二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">209519.38341400001</SimpleData>
+		<SimpleData name="TWD97_Y">2674369.58301999979</SimpleData>
+		<SimpleData name="Area">10507.51868000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.602258289902,24.1749078866992 120.601723628402,24.1734981830638 120.600953336935,24.1737577636148 120.601220590145,24.1744859094159 120.602258289902,24.1749078866992</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>大立光電股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">208635.32344499999</SimpleData>
+		<SimpleData name="TWD97_Y">2675033.73857000005</SimpleData>
+		<SimpleData name="Area">4743.68825104000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.593347666182,24.1802916147776 120.593016073616,24.1797436526688 120.592257184185,24.1800856388781 120.592743396047,24.1803258367379 120.5927064227,24.1804881888906 120.592776529413,24.1805528787145 120.593347666182,24.1802916147776</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>顧德生物科技股份有限公司台中廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">208561.16015200000</SimpleData>
+		<SimpleData name="TWD97_Y">2673642.28041000012</SimpleData>
+		<SimpleData name="Area">2155.70458908000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.592562381929,24.1676184563963 120.592478599887,24.1673524576998 120.591781431326,24.167550671237 120.591865297509,24.1677897944282 120.592562381929,24.1676184563963</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>惠特科技股份有限公司二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">208546.87536500001</SimpleData>
+		<SimpleData name="TWD97_Y">2673823.45098000020</SimpleData>
+		<SimpleData name="Area">2033.10910338000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.592406204408,24.1692413562593 120.592334106931,24.1689855419158 120.591638168526,24.1692034671141 120.591723390584,24.1694258710432 120.592406204408,24.1692413562593</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>皇盈企業股份有限公司台中廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">208544.51381400001</SimpleData>
+		<SimpleData name="TWD97_Y">2674099.33760999981</SimpleData>
+		<SimpleData name="Area">5839.25117715000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.592454871117,24.1719565699713 120.592211358576,24.1712521634526 120.591543481721,24.171444481409 120.59179672726,24.1721578737074 120.592454871117,24.1719565699713</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>順天堂藥廠股份有限公司台中廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">207721.69190300000</SimpleData>
+		<SimpleData name="TWD97_Y">2674315.92481999984</SimpleData>
+		<SimpleData name="Area">19070.33481510000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.584382967654,24.173201744992 120.583181327323,24.1727684483422 120.582996164463,24.1732552949784 120.58398032021,24.1745086160363 120.584762239607,24.1742885715382 120.584382967654,24.173201744992</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>世同金屬股份有限公司台中廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">210190.51263799999</SimpleData>
+		<SimpleData name="TWD97_Y">2673519.04940999998</SimpleData>
+		<SimpleData name="Area">16510.39722060000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.608880848788,24.1671899933586 120.608420856986,24.1656156623758 120.607537501682,24.1658284014986 120.608032624565,24.1674064087779 120.608880848788,24.1671899933586</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>恒安製藥工業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">210061.67685700001</SimpleData>
+		<SimpleData name="TWD97_Y">2673751.05341999978</SimpleData>
+		<SimpleData name="Area">5652.33945603000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.60739244538,24.1689862741473 120.60714501506,24.1681542683837 120.606496121628,24.1683246030459 120.606689436948,24.1689701290556 120.606845714693,24.1689561979936 120.607017604801,24.1689458905299 120.607248016742,24.1689572344304 120.60739244538,24.1689862741473</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>日立安斯泰莫台中股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">209989.54666200001</SimpleData>
+		<SimpleData name="TWD97_Y">2674126.69209000003</SimpleData>
+		<SimpleData name="Area">6131.62069894000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.60672620645,24.1721729412457 120.606538489078,24.1715685205935 120.605714942506,24.1717938255293 120.605913031044,24.1724116523198 120.60672620645,24.1721729412457</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>世達藥品工業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">208774.60135400001</SimpleData>
+		<SimpleData name="TWD97_Y">2674962.39521999983</SimpleData>
+		<SimpleData name="Area">4567.36400871000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.594691183537,24.1796080195674 120.594364151617,24.1790576834397 120.593809646586,24.179414554997 120.594130110022,24.17998279217 120.594329372489,24.1797623413591 120.594691183537,24.1796080195674</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>公告廢止(無生產中工廠)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">210434.61619299999</SimpleData>
+		<SimpleData name="TWD97_Y">2672575.37833999982</SimpleData>
+		<SimpleData name="Area">1640.13828352000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.61083407484,24.1577944168238 120.610815899784,24.1577776474876 120.610362440699,24.1579150518589 120.610473507621,24.1582091817567 120.610968727799,24.1580384376314 120.610841516735,24.1579162745009 120.61083407484,24.1577944168238</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>天陽航太科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">209816.78697200000</SimpleData>
+		<SimpleData name="TWD97_Y">2673582.31165000005</SimpleData>
+		<SimpleData name="Area">27208.41566180000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.605423998013,24.1682226575871 120.604559224522,24.1657764808922 120.604251854572,24.1658139076283 120.604033265268,24.1657703385199 120.60361162162,24.1657119076976 120.604563922511,24.1684784412098 120.605423998013,24.1682226575871</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣敦豪供應鏈</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">209603.64452800000</SimpleData>
+		<SimpleData name="TWD97_Y">2674377.22874999978</SimpleData>
+		<SimpleData name="Area">14639.22617940000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.603125973329,24.1751562900726 120.602407886638,24.1732718972322 120.601730139505,24.1734994716283 120.602262252591,24.1748912511897 120.602933142728,24.1751987899154 120.603052868634,24.1752182134844 120.603115379962,24.1752135982156 120.603125973329,24.1751562900726</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>頌勝化學工業股份有限公司台中工業區廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">台中工業區</SimpleData>
+		<SimpleData name="TWD97_X">208849.72463700001</SimpleData>
+		<SimpleData name="TWD97_Y">2674616.58650999982</SimpleData>
+		<SimpleData name="Area">6145.53059866000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.594614487842,24.1758384558967 120.594464812609,24.1758201405091 120.594412599832,24.1758618089078 120.594949713567,24.1768845278986 120.595601573919,24.1766174970958 120.595556417116,24.1764859831203 120.594614487842,24.1758384558967</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>界霖科技股份有限公司三廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178460.32014000000</SimpleData>
+		<SimpleData name="TWD97_Y">2513965.53421999980</SimpleData>
+		<SimpleData name="Area">3749.14100046000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.303907593844,22.7244335506655 120.303479553697,22.724273989647 120.303186040931,22.725014602318 120.303664996898,22.7250381932208 120.303907593844,22.7244335506655</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>光寶科技股份有限公司楠梓加工出口區廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178438.92773600001</SimpleData>
+		<SimpleData name="TWD97_Y">2513769.95863999985</SimpleData>
+		<SimpleData name="Area">5997.43582151000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.303899244086,22.7228257236267 120.303035508503,22.7224946204739 120.302806158614,22.7230264445965 120.303680283888,22.7233408688716 120.303899244086,22.7228257236267</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>界霖科技股份有限公司營運總部</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178515.40244000001</SimpleData>
+		<SimpleData name="TWD97_Y">2513875.33395999996</SimpleData>
+		<SimpleData name="Area">8474.05912672000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.304657944125,22.7235553861933 120.303917407056,22.7233084505683 120.303536775675,22.7242147442263 120.304256832827,22.7244376991213 120.304657944125,22.7235553861933</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>優盛油封實業有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178053.33305600000</SimpleData>
+		<SimpleData name="TWD97_Y">2513650.51075999998</SimpleData>
+		<SimpleData name="Area">4502.06274910000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.300200376848,22.7218637548851 120.299168942843,22.7214649954496 120.299022944211,22.72181140773 120.300057126086,22.7221767293743 120.300200376848,22.7218637548851</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣福雷電子股份有限公司工程一廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178217.49639399999</SimpleData>
+		<SimpleData name="TWD97_Y">2513607.73939999985</SimpleData>
+		<SimpleData name="Area">8150.77804806000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.301863655384,22.7213411885813 120.300758015496,22.7209731767975 120.300544003584,22.7215265688371 120.301623673429,22.7219374769312 120.301863655384,22.7213411885813</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>高準精密工業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178968.63116100000</SimpleData>
+		<SimpleData name="TWD97_Y">2513493.78597000008</SimpleData>
+		<SimpleData name="Area">8193.45447208000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.30920122986,22.720380283593 120.308082927161,22.7199668698373 120.307836727891,22.7205249117535 120.30897826819,22.7209276756348 120.30920122986,22.720380283593</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>日月光半導體製造股份有限公司材料八廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">179112.96849400000</SimpleData>
+		<SimpleData name="TWD97_Y">2513476.89490000019</SimpleData>
+		<SimpleData name="Area">8723.24043642000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.310635250734,22.7202395274532 120.309474556322,22.7198044364813 120.309216665093,22.7203839342773 120.310408413668,22.7207904889145 120.310635250734,22.7202395274532</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>達磨電子股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">179159.21571700001</SimpleData>
+		<SimpleData name="TWD97_Y">2513664.00930000003</SimpleData>
+		<SimpleData name="Area">4582.62273867000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.310821543371,22.7218696672849 120.310120945482,22.7216187510677 120.309915604003,22.7221196280988 120.310619423486,22.7223705591353 120.310821543371,22.7218696672849</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>亞東工業氣體股份有限公司楠梓分公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178921.74983500000</SimpleData>
+		<SimpleData name="TWD97_Y">2514028.04408999998</SimpleData>
+		<SimpleData name="Area">2671.65619925000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.308435360374,22.725217990174 120.307838909585,22.7249979784346 120.307659087701,22.7254153354629 120.308331026133,22.7254779775814 120.308435360374,22.725217990174</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>日月光電子股份有限公司四廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178846.55677100000</SimpleData>
+		<SimpleData name="TWD97_Y">2513782.91984000010</SimpleData>
+		<SimpleData name="Area">7596.55109141000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.307967543062,22.7229795370959 120.306913492407,22.7225902865344 120.306666055835,22.7231363741544 120.307745913894,22.7235161807567 120.307967543062,22.7229795370959</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣北澤股份有限公司第二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178825.02379499999</SimpleData>
+		<SimpleData name="TWD97_Y">2513925.85012000008</SimpleData>
+		<SimpleData name="Area">3785.93737369000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.307487704501,22.7241815708921 120.306944601136,22.7239820964157 120.306716617553,22.7245007908257 120.307266101485,22.7247122404661 120.307487704501,22.7241815708921</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣北澤股份有限公司第五廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178767.39230599999</SimpleData>
+		<SimpleData name="TWD97_Y">2513902.90696999989</SimpleData>
+		<SimpleData name="Area">3763.18574023000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.306934927574,22.7239850411707 120.306369319477,22.7237794938676 120.30615433265,22.7242743503649 120.306710178517,22.7245007629037 120.306934927574,22.7239850411707</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>長華科技股份有限公司二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178761.81341100001</SimpleData>
+		<SimpleData name="TWD97_Y">2513990.66492999997</SimpleData>
+		<SimpleData name="Area">10884.24215470000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.307265755615,22.7247809326682 120.306105558036,22.724369712536 120.305743746719,22.7252492131295 120.306985973463,22.7253561499643 120.307265755615,22.7247809326682</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>界霖科技股份有限公司一廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178352.33511000001</SimpleData>
+		<SimpleData name="TWD97_Y">2513864.77386000007</SimpleData>
+		<SimpleData name="Area">2137.17113599000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.302877414004,22.7237590621978 120.302244969146,22.7235293155418 120.302140612539,22.7237916880277 120.30275762901,22.7240165891421 120.302877414004,22.7237590621978</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>塑美貝科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178397.55316099999</SimpleData>
+		<SimpleData name="TWD97_Y">2513832.74805000005</SimpleData>
+		<SimpleData name="Area">8051.89631675000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.303589970918,22.7234276591711 120.302463983432,22.7230046152567 120.302252695904,22.7235293492625 120.303430138431,22.7239645656167 120.303628229856,22.7235018955177 120.303623296354,22.7234588658197 120.303589970918,22.7234276591711</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>南美特科技股份有限公司二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178417.45824400001</SimpleData>
+		<SimpleData name="TWD97_Y">2513612.02468999987</SimpleData>
+		<SimpleData name="Area">13780.19044540000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.304076076592,22.7215176444234 120.30223655879,22.7208609201109 120.302021477289,22.7213724960388 120.304173315301,22.7221524390256 120.304286330872,22.7219593937695 120.304197745875,22.7219052480101 120.304132612818,22.7217974439839 120.30409065991,22.7216897408218 120.304091076794,22.7216073101892 120.304122400309,22.7215250140687 120.304076076592,22.7215176444234</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>龍生工業股份有限公司高雄分公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178428.27417900000</SimpleData>
+		<SimpleData name="TWD97_Y">2513455.74452000018</SimpleData>
+		<SimpleData name="Area">6611.76128288000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.303810084637,22.7199691484948 120.302794689973,22.7195824289876 120.3026513537,22.7199139230935 120.303170616948,22.7201121132175 120.303024632845,22.7204579321673 120.303492484745,22.7206367823968 120.303810084637,22.7199691484948</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣愛光塑膠股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178840.77404700001</SimpleData>
+		<SimpleData name="TWD97_Y">2513377.17933999980</SimpleData>
+		<SimpleData name="Area">3768.04248885000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.307648526363,22.7191793677604 120.307178110134,22.718998129196 120.306916167159,22.7196134458662 120.307390538587,22.7197767822468 120.307648526363,22.7191793677604</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>日月光半導體製造股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">楠梓加工出口區</SimpleData>
+		<SimpleData name="TWD97_X">178830.36547600001</SimpleData>
+		<SimpleData name="TWD97_Y">2513484.63541000010</SimpleData>
+		<SimpleData name="Area">6344.09873065000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.307795533546,22.7203105882491 120.306756848438,22.7199429075789 120.306563875755,22.7204151616581 120.307587134658,22.7207779981325 120.307795533546,22.7203105882491</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>目前為空廠房</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184676.21251499999</SimpleData>
+		<SimpleData name="TWD97_Y">2492103.25717000011</SimpleData>
+		<SimpleData name="Area">2260.77826705000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.365357902377,22.5274900056901 120.36521553918,22.5272371211348 120.364586081147,22.5275371387237 120.364702242066,22.5277827521343 120.365357902377,22.5274900056901</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>明安國際企業股份有限公司鑄造廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184748.60240700000</SimpleData>
+		<SimpleData name="TWD97_Y">2492241.32478999998</SimpleData>
+		<SimpleData name="Area">3430.16070624000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.36533652571,22.5290449991154 120.365679869155,22.5288814822865 120.365748776381,22.5289993134728 120.366109087861,22.5288372962492 120.365891812138,22.5284292825575 120.365184980487,22.5287748744717 120.36533652571,22.5290449991154</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>台灣摩根先進材料股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184471.93737100001</SimpleData>
+		<SimpleData name="TWD97_Y">2492011.57731000008</SimpleData>
+		<SimpleData name="Area">1221.19566150000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.36330408321,22.5266306433362 120.363222492448,22.526475008038 120.362673559507,22.5267141674422 120.362755116864,22.5268769711362 120.36330408321,22.5266306433362</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>林商行強化安全玻璃廠股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">185149.90434000001</SimpleData>
+		<SimpleData name="TWD97_Y">2492677.96798999980</SimpleData>
+		<SimpleData name="Area">31571.62012120000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.37103286791,22.5327992288865 120.370673079971,22.5321634301909 120.369992641342,22.532472587965 120.369606161494,22.5317685838324 120.368396153927,22.5322978761819 120.368364262313,22.5325235515679 120.369018608,22.5337124672841 120.37103286791,22.5327992288865</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>唐榮油漆股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184778.99402000001</SimpleData>
+		<SimpleData name="TWD97_Y">2492385.93206000002</SimpleData>
+		<SimpleData name="Area">11384.14263380000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.366135688188,22.5293350857067 120.366019947877,22.5293346298742 120.365248305992,22.53018461295 120.366155678267,22.5308727586598 120.366485296509,22.5305048904201 120.366043142774,22.5301698248908 120.366531723105,22.529630543996 120.366409051146,22.5294580226318 120.366305293524,22.5293680107402 120.366235980124,22.5293390647451 120.366135688188,22.5293350857067</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>三福化工股份有限公司高雄廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184443.59025800001</SimpleData>
+		<SimpleData name="TWD97_Y">2492442.66987999994</SimpleData>
+		<SimpleData name="Area">4516.17306334000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.362705513421,22.5309779747904 120.36297179191,22.5306827405233 120.363030751399,22.5307259834646 120.36317304567,22.5305449504282 120.36266049284,22.530139109221 120.362226067677,22.5306439459676 120.362705513421,22.5309779747904</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>振懋興業</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184698.92331600000</SimpleData>
+		<SimpleData name="TWD97_Y">2493114.56498999987</SimpleData>
+		<SimpleData name="Area">3676.21702030000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.365598693981,22.5364148279825 120.365303370949,22.5361976597238 120.364701395019,22.5368910838437 120.364972095817,22.5370928637384 120.365598693981,22.5364148279825</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>集信企業股份有限公司第二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184486.89322500001</SimpleData>
+		<SimpleData name="TWD97_Y">2492183.49020999996</SimpleData>
+		<SimpleData name="Area">4170.35031590000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.363565285781,22.5283315969454 120.363289723285,22.527847843647 120.362683993069,22.528132177299 120.362959608751,22.5286039847293 120.363565285781,22.5283315969454</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>目前空置</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">185742.39467700000</SimpleData>
+		<SimpleData name="TWD97_Y">2493930.19291000022</SimpleData>
+		<SimpleData name="Area">1432.35052230000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.375535627845,22.5439028341535 120.375371595301,22.5437703012486 120.374978732612,22.544185490737 120.37516330052,22.544327661513 120.375535627845,22.5439028341535</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>如欲企業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184879.86326600000</SimpleData>
+		<SimpleData name="TWD97_Y">2492124.89765000017</SimpleData>
+		<SimpleData name="Area">18476.59948990000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.368145427401,22.5275482834276 120.367808748221,22.5269269056701 120.365767483145,22.5278543357157 120.366096275706,22.5285115278442 120.368145427401,22.5275482834276</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>新和化學股份有限公司高雄廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184492.29426800000</SimpleData>
+		<SimpleData name="TWD97_Y">2492382.92413999978</SimpleData>
+		<SimpleData name="Area">5877.58778133000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.363599100858,22.5300682189875 120.363298504843,22.5294338330901 120.362659963047,22.530140964497 120.363177681842,22.5305420473051 120.363599100858,22.5300682189875</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>伍桐股份有限公司(歇業)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184658.96623399999</SimpleData>
+		<SimpleData name="TWD97_Y">2491526.33118000021</SimpleData>
+		<SimpleData name="Area">7432.11050157000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.365389473716,22.5224631837608 120.365053086208,22.5217832605119 120.364254102303,22.5221528579619 120.364600883494,22.5228089295146 120.365389473716,22.5224631837608</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>協勝發鋼鐵廠股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">臨海工業區</SimpleData>
+		<SimpleData name="TWD97_X">184821.13230200001</SimpleData>
+		<SimpleData name="TWD97_Y">2495740.28021000000</SimpleData>
+		<SimpleData name="Area">71433.48463760002</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.368079066987,22.5600398376011 120.365939600137,22.5587052895016 120.364402439206,22.5606776559655 120.366464676772,22.5620262566678 120.368079066987,22.5600398376011</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>國嘉製藥工業股份有限公司幼獅三廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">214612.68866399999</SimpleData>
+		<SimpleData name="TWD97_Y">2699142.46433999995</SimpleData>
+		<SimpleData name="Area">8639.13043231000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.651740949143,24.3978871113827 120.651048798785,24.397254841658 120.650723470742,24.3979325469404 120.650633477984,24.3984053468434 120.650857147165,24.3986495330927 120.651740949143,24.3978871113827</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>永日化學工業股份有限公司台中幼獅廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">214971.45992800000</SimpleData>
+		<SimpleData name="TWD97_Y">2699785.34959999984</SimpleData>
+		<SimpleData name="Area">7900.62304378000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.654608328242,24.4032015003119 120.654546379926,24.4031983728803 120.654026682079,24.403645109959 120.654676900398,24.4043662578157 120.655140855803,24.4040328655781 120.655176920152,24.4039612799488 120.655173813324,24.403904535895 120.655144603213,24.4038537047228 120.654608328242,24.4032015003119</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>竣淵科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">215085.56924000001</SimpleData>
+		<SimpleData name="TWD97_Y">2699814.41111000022</SimpleData>
+		<SimpleData name="Area">2661.96083397000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.656111758544,24.4041026652867 120.655698055131,24.4037027746788 120.655454862431,24.4039172248642 120.655446764086,24.404017541305 120.655753588007,24.4043885225438 120.656111758544,24.4041026652867</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>昆達</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">215563.21067199999</SimpleData>
+		<SimpleData name="TWD97_Y">2699800.35448999982</SimpleData>
+		<SimpleData name="Area">2614.96236805000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.660831451453,24.4038384888019 120.660205795212,24.403675117006 120.660093716798,24.4040289043265 120.66071942441,24.4041736431086 120.660831451453,24.4038384888019</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>林朋科技股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">215490.63274999999</SimpleData>
+		<SimpleData name="TWD97_Y">2699830.93794000009</SimpleData>
+		<SimpleData name="Area">3127.85133779000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.660090520983,24.4040347663574 120.659527382768,24.4039054548366 120.659398806578,24.404379128623 120.659964074657,24.4044931562896 120.660090520983,24.4040347663574</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>科林實業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">215548.22250500001</SimpleData>
+		<SimpleData name="TWD97_Y">2699837.72519000014</SimpleData>
+		<SimpleData name="Area">2392.32095118000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.66003818023,24.4044866336971 120.660071663928,24.4044523083178 120.660103024835,24.4044313561585 120.660144789906,24.4044218942038 120.660199025697,24.4044315716104 120.660326249362,24.4044624353249 120.660453616213,24.4044397872481 120.66056229728,24.4043807855334 120.660650195356,24.4042892477838 120.66070465581,24.4042148353223 120.660729801585,24.4041766688476 120.660093659076,24.4040319067204 120.659968302361,24.4044730988114 120.659975611878,24.4044712040927 120.66003818023,24.4044866336971</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>鈦揚企業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">214066.20789300001</SimpleData>
+		<SimpleData name="TWD97_Y">2700379.38102999981</SimpleData>
+		<SimpleData name="Area">1745.22774188000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.645956686875,24.4092687568569 120.645693349119,24.408839568231 120.645411197801,24.4089822430359 120.645683946641,24.4094042874036 120.645956686875,24.4092687568569</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>新加坡商矽比科亞洲有限公司寶琳分公司大甲廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">214502.21402200000</SimpleData>
+		<SimpleData name="TWD97_Y">2699415.74075999996</SimpleData>
+		<SimpleData name="Area">9618.37231824000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.650705024094,24.4002978661429 120.650076866004,24.399633489195 120.649364778182,24.4010257803052 120.649509024059,24.4012196171598 120.650705024094,24.4002978661429</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>友懋</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">214709.11752199999</SimpleData>
+		<SimpleData name="TWD97_Y">2700106.94757999992</SimpleData>
+		<SimpleData name="Area">5134.95667715000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.652582897161,24.4066600117517 120.652291804317,24.406261826601 120.651493446467,24.406668975007 120.651767736743,24.4071053457912 120.652582897161,24.4066600117517</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>空廠房</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">大甲幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">214268.27116900001</SimpleData>
+		<SimpleData name="TWD97_Y">2700210.38999000005</SimpleData>
+		<SimpleData name="Area">1466.90051452000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.64792722693,24.4077449947024 120.647684178327,24.4073359235085 120.647438097408,24.407455752437 120.647678010912,24.4078662500578 120.64792722693,24.4077449947024</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>森德皮革有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">頭橋工業區</SimpleData>
+		<SimpleData name="TWD97_X">192359.94226300000</SimpleData>
+		<SimpleData name="TWD97_Y">2602391.02423000010</SimpleData>
+		<SimpleData name="Area">11314.84697900000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.436502063149,23.5238118478446 120.435726623832,23.5233742140428 120.435544053896,23.5236554717241 120.43447924734,23.5230256504438 120.434296736548,23.5232925719469 120.436147227372,23.5243887369885 120.436502063149,23.5238118478446</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>鑫榮機械工業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">頭橋工業區</SimpleData>
+		<SimpleData name="TWD97_X">192161.68270999999</SimpleData>
+		<SimpleData name="TWD97_Y">2602319.00145999994</SimpleData>
+		<SimpleData name="Area">14253.11571060000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.434422349502,23.5228663185878 120.432989538295,23.5222590413471 120.433098217033,23.5228973396806 120.433128400282,23.5237145381267 120.433812468371,23.5237050818289 120.433851414719,23.5236861102722 120.434422349502,23.5228663185878</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>卡普秀時空膠囊觀光工廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">民雄工業區</SimpleData>
+		<SimpleData name="TWD97_X">193776.90919599999</SimpleData>
+		<SimpleData name="TWD97_Y">2602209.58779999986</SimpleData>
+		<SimpleData name="Area">5615.56066229000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.449865912711,23.5219765752366 120.449494574964,23.5215523825564 120.44893165028,23.5223388114417 120.449381149459,23.5226593537435 120.449865912711,23.5219765752366</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>慶洲興業有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">內埔工業區</SimpleData>
+		<SimpleData name="TWD97_X">203146.50300500001</SimpleData>
+		<SimpleData name="TWD97_Y">2504085.39081999986</SimpleData>
+		<SimpleData name="Area">1001.57742043000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.544266618827,22.6363070379312 120.544178360868,22.6362188555989 120.544053359206,22.6361263633355 120.543877630791,22.6362418949715 120.543863275942,22.6362236943767 120.54385604648,22.6362303642391 120.54386524054,22.6362523732805 120.544430524279,22.6365607845384 120.544466759827,22.6365006735389 120.5444246679,22.6364632786457 120.544266618827,22.6363070379312</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>瑞洋生物科技有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">內埔工業區</SimpleData>
+		<SimpleData name="TWD97_X">203127.18381600000</SimpleData>
+		<SimpleData name="TWD97_Y">2504101.24789999984</SimpleData>
+		<SimpleData name="Area">2728.59110930000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.543862362479,22.6362508836271 120.543855221355,22.6362307920044 120.543818132667,22.6362373769317 120.543788305033,22.6362277343207 120.543764674072,22.6362123746634 120.543730825788,22.6361730914978 120.543713394704,22.636151059047 120.543479529037,22.6363487172004 120.544288879914,22.6368002343484 120.544428667971,22.6365616872722 120.543862362479,22.6362508836271</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>群雅電子(佔一半)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">頭份工業區</SimpleData>
+		<SimpleData name="TWD97_X">238377.47261500001</SimpleData>
+		<SimpleData name="TWD97_Y">2730105.79296000022</SimpleData>
+		<SimpleData name="Area">5606.50414946000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>120.885437577956,24.6774495635519 120.884872658041,24.6774491315753 120.884869337926,24.6783306199134 120.885439283354,24.6783310557475 120.885437577956,24.6774495635519</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>柏凱實業股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">樹林工業區</SimpleData>
+		<SimpleData name="TWD97_X">292357.86223899998</SimpleData>
+		<SimpleData name="TWD97_Y">2765905.01885000011</SimpleData>
+		<SimpleData name="Area">1553.54242459000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.419912083157,25.0003985431506 121.41969932473,25.0002677638052 121.419357504751,25.000724973849 121.419559762779,25.000851005812 121.419912083157,25.0003985431506</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>昭群工業有限公司、友煜自動化股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">樹林工業區</SimpleData>
+		<SimpleData name="TWD97_X">292482.51969500002</SimpleData>
+		<SimpleData name="TWD97_Y">2765967.05527999997</SimpleData>
+		<SimpleData name="Area">5048.30756560000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.421384182248,25.0008286066336 121.421174073633,25.0007068990512 121.42108626374,25.0007835867764 121.420890846914,25.0006656591739 121.420377314386,25.0013455083982 121.420797604246,25.0016099460047 121.421384182248,25.0008286066336</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>恆榮針織</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">樹林工業區</SimpleData>
+		<SimpleData name="TWD97_X">292475.43075699999</SimpleData>
+		<SimpleData name="TWD97_Y">2766296.19028000021</SimpleData>
+		<SimpleData name="Area">7171.27316272000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.421421008172,25.004017312346 121.420693907318,25.0035645580171 121.420215789428,25.0041793331556 121.420879833049,25.0045883157672 121.420923830556,25.0045767253886 121.421421008172,25.004017312346</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>嘉發實業工廠股份有限公司幼獅廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">桃園幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">267536.38026900002</SimpleData>
+		<SimpleData name="TWD97_Y">2757174.55066999979</SimpleData>
+		<SimpleData name="Area">15738.00107620000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.17432547246,24.9216812565394 121.173392545926,24.9214148007096 121.172905893488,24.9227698053942 121.173868947452,24.9230314514937 121.17432547246,24.9216812565394</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>嘉發實業工廠股份有限公司幼獅二廠</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">桃園幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">267445.13544099999</SimpleData>
+		<SimpleData name="TWD97_Y">2757136.60679000011</SimpleData>
+		<SimpleData name="Area">14793.50803250000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.173388614955,24.9214136109079 121.172412435476,24.9211221169655 121.172209472585,24.9211581832477 121.172322818948,24.9226092376354 121.172905893488,24.9227698053942 121.173388614955,24.9214136109079</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>奇奕國際股份有限公司</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#factory">
+		<SimpleData name="工業區">桃園幼獅工業區</SimpleData>
+		<SimpleData name="TWD97_X">267473.71132000000</SimpleData>
+		<SimpleData name="TWD97_Y">2757540.92768999981</SimpleData>
+		<SimpleData name="Area">1779.08059463000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>121.173243842257,24.9257878775136 121.173371436335,24.9256138259086 121.172819798331,24.9252762149715 121.172656638365,24.9254942608489 121.172960771768,24.925679277749 121.172996337167,24.925635282909 121.173243842257,24.9257878775136</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
